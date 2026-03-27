@@ -77,13 +77,17 @@
 			<img src="https://streak-stats.demolab.com?user=arnavjaiswal18&theme=highcontrast&hide_border=false&border_radius=14&ring=7c3aed&fire=f43f5e&currStreakLabel=22d3ee&sideLabels=f59e0b&dates=e2e8f0&background=030712" alt="streak analytics" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=compact&theme=tokyonight&hide_border=false&border_radius=14&title_color=22d3ee&text_color=e2e8f0&bg_color=030712&langs_count=8" alt="language dna" />
+			<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arnavjaiswal18&theme=tokyonight" alt="language dna" />
 		</td>
 	</tr>
 </table>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14&title_color=22d3ee&icon_color=f59e0b&text_color=e2e8f0&bg_color=030712&rank_icon=github" alt="contribution analytics" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arnavjaiswal18&theme=tokyonight" alt="contribution analytics" />
+</p>
+
+<p align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arnavjaiswal18&theme=tokyonight" alt="most used languages" />
 </p>
 
 ---
@@ -108,10 +112,6 @@
 	</a>
 </p>
 
-<p align="center">
-	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-</p>
-
 <h3 align="center"><i>Architecting the future with Generative AI and Intelligent Agents</i></h3>
 
 <p align="center">
@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavjaiswal18&bg_color=030712&color=e2e8f0&line=22c55e&point=a855f7&area=true&hide_border=true" alt="contribution graph" />
+	<img src="https://raw.githubusercontent.com/arnavjaiswal18/arnavjaiswal18/output/snake.svg" alt="snake animation" />
 </p>
 
 <p align="center">
