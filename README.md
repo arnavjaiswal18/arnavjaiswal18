@@ -65,15 +65,25 @@
 
 ---
 
-## GitHub Analytics
+## QUANTUM PERFORMANCE ANALYTICS
 
 <p align="center">
-	<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
-	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=compact&theme=github_dark&hide_border=true" alt="top languages" />
+	<img src="https://img.shields.io/badge/Analytics-Live%20Data-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="analytics badge" />
 </p>
 
+<table align="center">
+	<tr>
+		<td>
+			<img src="https://streak-stats.demolab.com?user=arnavjaiswal18&theme=highcontrast&hide_border=false&border_radius=14&ring=7c3aed&fire=f43f5e&currStreakLabel=22d3ee&sideLabels=f59e0b&dates=e2e8f0&background=030712" alt="streak analytics" />
+		</td>
+		<td>
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=donut&theme=transparent&hide_border=false&border_radius=14&title_color=22d3ee&text_color=e2e8f0&bg_color=030712" alt="language dna" />
+		</td>
+	</tr>
+</table>
+
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=arnavjaiswal18&theme=github-dark-blue&hide_border=true" alt="streak" />
+	<img src="https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=transparent&hide_border=false&border_radius=14&title_color=22d3ee&icon_color=f59e0b&text_color=e2e8f0&bg_color=030712" alt="contribution analytics" />
 </p>
 
 ---
