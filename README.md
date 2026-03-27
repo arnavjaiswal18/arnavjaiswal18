@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0ea5e9&text=Arnav%20Jaiswal&fontSize=48&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&animation=fadeIn" alt="header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Arnav%20Jaiswal&fontSize=48&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+<h2 align="center">About Me</h2>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/AI%2FML%20Engineer-Production%20NLP%20%26%20GenAI-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="role" />
@@ -32,7 +32,7 @@
 	<img src="https://img.shields.io/badge/Focus-Model%20Optimization-f59e0b?style=flat-square" alt="focus optimization" />
 </p>
 
-### Core Expertise
+<h3 align="center">Core Expertise</h3>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/GENERATIVE%20AI-LLMs%20%7C%20RAG%20%7C%20Fine--tuning-ff6b35?style=for-the-badge" alt="generative ai" />
@@ -48,9 +48,9 @@
 
 ---
 
-## AI/ML Tech Arsenal
+<h2 align="center">AI/ML Tech Arsenal</h2>
 
-<p align="left">
+<p align="center">
 	<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,vscode" alt="tech stack" />
 </p>
 
@@ -79,6 +79,7 @@
 <p>
 	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0A0A0A" alt="Render" />
 	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
 	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
@@ -169,5 +170,5 @@
 </p>
 
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:0f172a" alt="footer" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:22c55e,50:0891b2,100:0f172a" alt="footer" />
 </p>
