@@ -19,27 +19,32 @@
 ## About Me
 
 <p align="center">
-	<i>AI/ML Engineer building production-ready NLP and GenAI systems</i>
+	<img src="https://img.shields.io/badge/AI%2FML%20Engineer-Production%20NLP%20%26%20GenAI-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="role" />
 </p>
 
 <p align="center">
-	B.Tech (ECE), IIIT Kottayam (2022-2026) | Focused on scalable inference, applied LLMs, and model optimization
+	<img src="https://img.shields.io/badge/IIIT%20Kottayam-B.Tech%20ECE%20(2022--2026)-22c55e?style=for-the-badge&labelColor=0f172a" alt="education" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Focus-Scalable%20Inference-2563eb?style=flat-square" alt="focus inference" />
+	<img src="https://img.shields.io/badge/Focus-Applied%20LLMs-7c3aed?style=flat-square" alt="focus llm" />
+	<img src="https://img.shields.io/badge/Focus-Model%20Optimization-f59e0b?style=flat-square" alt="focus optimization" />
 </p>
 
 ### Core Expertise
 
-<table align="center">
-	<tr>
-		<td align="center"><b>GENERATIVE AI</b><br/>LLMs | RAG | Fine-tuning</td>
-		<td align="center"><b>AGENTIC AI</b><br/>Multi-agent systems | AutoGen</td>
-		<td align="center"><b>ML ENGINEERING</b><br/>MLOps | Model deployment</td>
-	</tr>
-	<tr>
-		<td align="center"><b>DATA SCIENCE</b><br/>Analytics | Visualization</td>
-		<td align="center"><b>FULL STACK AI</b><br/>APIs | Integrations | Dashboards</td>
-		<td align="center"><b>OPTIMIZATION</b><br/>Feature engineering | Performance tuning</td>
-	</tr>
-</table>
+<p align="center">
+	<img src="https://img.shields.io/badge/GENERATIVE%20AI-LLMs%20%7C%20RAG%20%7C%20Fine--tuning-ff6b35?style=for-the-badge" alt="generative ai" />
+	<img src="https://img.shields.io/badge/AGENTIC%20AI-Multi--agent%20%7C%20AutoGen-06b6d4?style=for-the-badge" alt="agentic ai" />
+	<img src="https://img.shields.io/badge/ML%20ENGINEERING-MLOps%20%7C%20Deployment-a855f7?style=for-the-badge" alt="ml engineering" />
+</p>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/DATA%20SCIENCE-Analytics%20%7C%20Visualization-ef4444?style=for-the-badge" alt="data science" />
+	<img src="https://img.shields.io/badge/FULL%20STACK%20AI-APIs%20%7C%20Integrations%20%7C%20Dashboards-22c55e?style=for-the-badge" alt="full stack ai" />
+	<img src="https://img.shields.io/badge/OPTIMIZATION-Feature%20Engineering%20%7C%20Tuning-f59e0b?style=for-the-badge" alt="optimization" />
+</p>
 
 ---
 
