@@ -1,82 +1,89 @@
-<div align="center">
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:0ea5e9&text=Arnav%20Jaiswal&fontSize=48&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&animation=fadeIn" alt="header" />
+</p>
 
-# Arnav Jaiswal
+<p align="center">
+	<a href="https://github.com/arnavjaiswal18">
+		<img src="https://img.shields.io/badge/GitHub-arnavjaiswal18-111827?style=for-the-badge&logo=github" alt="GitHub" />
+	</a>
+	<a href="https://www.linkedin.com/in/aranavjaiswal">
+		<img src="https://img.shields.io/badge/LinkedIn-Arnav%20Jaiswal-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=arnavjaiswal18&style=for-the-badge&color=0ea5e9" alt="profile views" />
+</p>
 
-**AI & ML Engineer** | NLP Specialist | GenAI Developer  
-
-Building intelligent, scalable AI systems that solve real-world problems
-
-</div>
+<h3 align="center">Building intelligent systems that solve real-world problems</h3>
 
 ---
 
 ## About Me
 
-I'm an AI/ML Engineer passionate about developing advanced NLP and LLM-based solutions. Currently pursuing B.Tech in ECE at IIIT Kottayam (2022–2026).
+- AI/ML Engineer focused on NLP and LLM-powered applications
+- B.Tech (ECE) at IIIT Kottayam (2022-2026)
+- Strong interest in production ML, scalable inference, and applied GenAI
 
-**Key Expertise:**
-- Designing and deploying scalable ML systems handling real-time inference at scale
-- NLP, Large Language Models, and Transformer architectures
-- Full-stack AI application development
-- Data science and algorithm optimization
+### Focus Areas
+
+- End-to-end ML systems for real-time inference
+- NLP, Transformers, and LLM application engineering
+- Model optimization, feature engineering, and practical deployment
 
 ---
 
-## Technical Skills
+## Tech Stack
 
-**AI & Machine Learning**  
-Python, Machine Learning, Deep Learning, NLP, Large Language Models, Transformers
+<p align="left">
+	<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,vscode" alt="tech stack" />
+</p>
 
-**Frameworks & Libraries**  
-TensorFlow, PyTorch, Scikit-learn, HuggingFace, Pandas, NumPy
-
-**Tools & Technologies**  
-FastAPI, Docker, Git, Power BI, VS Code  
+**Core:** Machine Learning, Deep Learning, NLP, LLMs, Transformers  
+**Libraries:** Scikit-learn, HuggingFace, Pandas, NumPy
 
 ---
 
 ## Featured Projects
 
-### AI-Powered Document Summarizer
-- **Technology:** PEGASUS (HuggingFace), FastAPI, Docker
-- **Impact:** Processed 16,000+ conversations; handles 100+ requests/min
-- **Key Achievement:** Production-ready deployment demonstrating scalable NLP inference
+### Document Summarization Engine
+- Stack: PEGASUS (HuggingFace), FastAPI, Docker
+- Scale: 16,000+ conversations processed, 100+ requests/min handling
+- Outcome: Production-style NLP inference pipeline for high-volume summarization
 
 ### Dog Breed Classification
-- **Approach:** CNN with Transfer Learning on 10,000+ images
-- **Results:** Achieved 78% accuracy across 120 dog breed classes (vs. 70% baseline)
-- **Methodology:** Feature extraction and model optimization techniques
+- Stack: CNN + Transfer Learning on 10,000+ images
+- Performance: 78% accuracy on 120 classes (from 70% baseline)
+- Outcome: Better generalization through feature extraction and tuning
 
 ### Bulldozer Price Prediction
-- **Technology:** Random Forest on 400,000+ records
-- **Focus:** Comprehensive feature engineering and exploratory data analysis
-- **Outcome:** Improved prediction reliability through advanced preprocessing
+- Stack: Random Forest on 400,000+ records
+- Focus: Deep EDA + feature engineering
+- Outcome: More reliable predictions with robust preprocessing
 
 ### AI Customer Support Automation
-- **Platform:** Telegram Bot with LLM Integration
-- **Impact:** 60% reduction in manual support workload
-- **Capability:** Real-time intelligent responses powered by language models  
+- Stack: Telegram Bot + LLM integration
+- Impact: 60% reduction in manual support workload
+- Outcome: Faster response cycles with real-time intelligent replies
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
 
-<div align="center">
+<p align="center">
+	<img height="170" src="https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=github_dark&hide_border=true" alt="stats" />
+	<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=compact&theme=github_dark&hide_border=true" alt="top languages" />
+</p>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-## Connect
-
-- **GitHub:** [arnavjaiswal18](https://github.com/arnavjaiswal18)  
-- **LinkedIn:** [Arnav Jaiswal](https://www.linkedin.com/in/aranavjaiswal)  
-- **Email:** [Get in touch](mailto:your-email@example.com)
+<p align="center">
+	<img src="https://streak-stats.demolab.com?user=arnavjaiswal18&theme=github-dark-blue&hide_border=true" alt="streak" />
+</p>
 
 ---
 
-*Building intelligent systems that solve real-world problems*
+## Let's Connect
+
+- GitHub: [arnavjaiswal18](https://github.com/arnavjaiswal18)
+- LinkedIn: [Arnav Jaiswal](https://www.linkedin.com/in/aranavjaiswal)
+- Email: [Get in touch](mailto:your-email@example.com)
+
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:0f172a" alt="footer" />
+</p>
