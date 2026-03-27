@@ -120,7 +120,7 @@
 </p>
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/arnavjaiswal18/arnavjaiswal18/output/snake.svg" alt="snake animation" />
+	<img src="https://raw.githubusercontent.com/arnavjaiswal18/arnavjaiswal18/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">
