@@ -54,9 +54,9 @@
 	<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,vscode" alt="tech stack" />
 </p>
 
-### AI & Machine Learning
+<h3 align="center">AI & Machine Learning</h3>
 
-<p>
+<p align="center">
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -64,9 +64,9 @@
 	<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </p>
 
-### GenAI & Agentic Systems
+<h3 align="center">GenAI & Agentic Systems</h3>
 
-<p>
+<p align="center">
 	<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
 	<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG" />
 	<img src="https://img.shields.io/badge/AutoGen-E11D48?style=for-the-badge" alt="AutoGen" />
@@ -74,9 +74,9 @@
 	<img src="https://img.shields.io/badge/Fine--tuning-DC2626?style=for-the-badge" alt="Fine-tuning" />
 </p>
 
-### Deployment & Tooling
+<h3 align="center">Deployment & Tooling</h3>
 
-<p>
+<p align="center">
 	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 	<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0A0A0A" alt="Render" />
@@ -87,27 +87,54 @@
 
 ---
 
-## Featured Projects
+<h2 align="center">Featured AI Projects</h2>
 
-### Document Summarization Engine
-- Stack: PEGASUS (HuggingFace), FastAPI, Docker
-- Scale: 16,000+ conversations processed, 100+ requests/min handling
-- Outcome: Production-style NLP inference pipeline for high-volume summarization
-
-### Dog Breed Classification
-- Stack: CNN + Transfer Learning on 10,000+ images
-- Performance: 78% accuracy on 120 classes (from 70% baseline)
-- Outcome: Better generalization through feature extraction and tuning
-
-### Bulldozer Price Prediction
-- Stack: Random Forest on 400,000+ records
-- Focus: Deep EDA + feature engineering
-- Outcome: More reliable predictions with robust preprocessing
-
-### AI Customer Support Automation
-- Stack: Telegram Bot + LLM integration
-- Impact: 60% reduction in manual support workload
-- Outcome: Faster response cycles with real-time intelligent replies
+<table align="center">
+	<tr>
+		<td width="50%" valign="top">
+			<h3>Document Summarization Engine</h3>
+			<p>Production NLP pipeline using PEGASUS to process 16,000+ conversations with 100+ requests/min throughput.</p>
+			<p>
+				<img src="https://img.shields.io/badge/PEGASUS-FF8C00?style=flat-square" alt="PEGASUS" />
+				<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=flat-square" alt="HuggingFace" />
+				<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square" alt="FastAPI" />
+				<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square" alt="Docker" />
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>Dog Breed Classification</h3>
+			<p>CNN transfer-learning system on 10,000+ images, improving accuracy to 78% across 120 classes.</p>
+			<p>
+				<img src="https://img.shields.io/badge/CNN-E11D48?style=flat-square" alt="CNN" />
+				<img src="https://img.shields.io/badge/Transfer%20Learning-7C3AED?style=flat-square" alt="Transfer Learning" />
+				<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square" alt="PyTorch" />
+				<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square" alt="Computer Vision" />
+			</p>
+		</td>
+	</tr>
+	<tr>
+		<td width="50%" valign="top">
+			<h3>Bulldozer Price Prediction</h3>
+			<p>Random Forest model trained on 400,000+ records with deep EDA and feature engineering for robust predictions.</p>
+			<p>
+				<img src="https://img.shields.io/badge/Random%20Forest-16A34A?style=flat-square" alt="Random Forest" />
+				<img src="https://img.shields.io/badge/EDA-0EA5E9?style=flat-square" alt="EDA" />
+				<img src="https://img.shields.io/badge/Feature%20Engineering-F59E0B?style=flat-square" alt="Feature Engineering" />
+				<img src="https://img.shields.io/badge/Regression-334155?style=flat-square" alt="Regression" />
+			</p>
+		</td>
+		<td width="50%" valign="top">
+			<h3>AI Customer Support Automation</h3>
+			<p>LLM-powered Telegram bot that reduced manual support workload by 60% with real-time intelligent responses.</p>
+			<p>
+				<img src="https://img.shields.io/badge/LLM-111827?style=flat-square" alt="LLM" />
+				<img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square" alt="Telegram Bot" />
+				<img src="https://img.shields.io/badge/Automation-9333EA?style=flat-square" alt="Automation" />
+				<img src="https://img.shields.io/badge/NLP-0891B2?style=flat-square" alt="NLP" />
+			</p>
+		</td>
+	</tr>
+</table>
 
 ---
 
