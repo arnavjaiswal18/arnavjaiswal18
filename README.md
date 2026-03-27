@@ -18,26 +18,66 @@
 
 ## About Me
 
-- AI/ML Engineer focused on NLP and LLM-powered applications
-- B.Tech (ECE) at IIIT Kottayam (2022-2026)
-- Strong interest in production ML, scalable inference, and applied GenAI
+<p align="center">
+	<i>AI/ML Engineer building production-ready NLP and GenAI systems</i>
+</p>
 
-### Focus Areas
+<p align="center">
+	B.Tech (ECE), IIIT Kottayam (2022-2026) | Focused on scalable inference, applied LLMs, and model optimization
+</p>
 
-- End-to-end ML systems for real-time inference
-- NLP, Transformers, and LLM application engineering
-- Model optimization, feature engineering, and practical deployment
+### Core Expertise
+
+<table align="center">
+	<tr>
+		<td align="center"><b>GENERATIVE AI</b><br/>LLMs | RAG | Fine-tuning</td>
+		<td align="center"><b>AGENTIC AI</b><br/>Multi-agent systems | AutoGen</td>
+		<td align="center"><b>ML ENGINEERING</b><br/>MLOps | Model deployment</td>
+	</tr>
+	<tr>
+		<td align="center"><b>DATA SCIENCE</b><br/>Analytics | Visualization</td>
+		<td align="center"><b>FULL STACK AI</b><br/>APIs | Integrations | Dashboards</td>
+		<td align="center"><b>OPTIMIZATION</b><br/>Feature engineering | Performance tuning</td>
+	</tr>
+</table>
 
 ---
 
-## Tech Stack
+## AI/ML Tech Arsenal
 
 <p align="left">
 	<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,vscode" alt="tech stack" />
 </p>
 
-**Core:** Machine Learning, Deep Learning, NLP, LLMs, Transformers  
-**Libraries:** Scikit-learn, HuggingFace, Pandas, NumPy
+### AI & Machine Learning
+
+<p>
+	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+	<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+	<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+	<img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+</p>
+
+### GenAI & Agentic Systems
+
+<p>
+	<img src="https://img.shields.io/badge/LLMs-111827?style=for-the-badge" alt="LLMs" />
+	<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge" alt="RAG" />
+	<img src="https://img.shields.io/badge/AutoGen-E11D48?style=for-the-badge" alt="AutoGen" />
+	<img src="https://img.shields.io/badge/Vector_DB-7C3AED?style=for-the-badge" alt="Vector DB" />
+	<img src="https://img.shields.io/badge/Fine--tuning-DC2626?style=for-the-badge" alt="Fine-tuning" />
+</p>
+
+### Deployment & Tooling
+
+<p>
+	<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+	<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+</p>
 
 ---
 
