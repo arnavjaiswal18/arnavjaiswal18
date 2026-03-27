@@ -77,22 +77,51 @@
 			<img src="https://streak-stats.demolab.com?user=arnavjaiswal18&theme=highcontrast&hide_border=false&border_radius=14&ring=7c3aed&fire=f43f5e&currStreakLabel=22d3ee&sideLabels=f59e0b&dates=e2e8f0&background=030712" alt="streak analytics" />
 		</td>
 		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=donut&theme=transparent&hide_border=false&border_radius=14&title_color=22d3ee&text_color=e2e8f0&bg_color=030712" alt="language dna" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjaiswal18&layout=compact&theme=tokyonight&hide_border=false&border_radius=14&title_color=22d3ee&text_color=e2e8f0&bg_color=030712&langs_count=8" alt="language dna" />
 		</td>
 	</tr>
 </table>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=transparent&hide_border=false&border_radius=14&title_color=22d3ee&icon_color=f59e0b&text_color=e2e8f0&bg_color=030712" alt="contribution analytics" />
+	<img src="https://github-readme-stats.vercel.app/api?username=arnavjaiswal18&show_icons=true&theme=tokyonight&hide_border=false&border_radius=14&title_color=22d3ee&icon_color=f59e0b&text_color=e2e8f0&bg_color=030712&rank_icon=github" alt="contribution analytics" />
 </p>
 
 ---
 
-## Let's Connect
+## Connect & Collaborate
 
-- GitHub: [arnavjaiswal18](https://github.com/arnavjaiswal18)
-- LinkedIn: [Arnav Jaiswal](https://www.linkedin.com/in/aranavjaiswal)
-- Email: [Get in touch](mailto:your-email@example.com)
+<p align="center">
+	<a href="https://www.linkedin.com/in/aranavjaiswal">
+		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+	</a>
+	<a href="mailto:your-email@example.com">
+		<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+	</a>
+	<a href="https://leetcode.com/arnavjaiswal18/">
+		<img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="leetcode" />
+	</a>
+	<a href="https://github.com/arnavjaiswal18">
+		<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white" alt="portfolio" />
+	</a>
+	<a href="https://drive.google.com/file/d/1GcVvYJ-VUZOXNl5q-U0XTvkEoWE3xfLi/view?usp=sharing">
+		<img src="https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=readme&logoColor=white" alt="resume" />
+	</a>
+</p>
+
+<p align="center">
+	<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
+</p>
+
+<h3 align="center"><i>Architecting the future with Generative AI and Intelligent Agents</i></h3>
+
+<p align="center">
+	<img src="https://komarev.com/ghpvc/?username=arnavjaiswal18&label=PROFILE%20VIEWS&style=for-the-badge&color=64748b" alt="profile views" />
+	<img src="https://img.shields.io/github/followers/arnavjaiswal18?label=FOLLOWERS&style=for-the-badge&color=06b6d4" alt="followers" />
+</p>
+
+<p align="center">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=arnavjaiswal18&bg_color=030712&color=e2e8f0&line=22c55e&point=a855f7&area=true&hide_border=true" alt="contribution graph" />
+</p>
 
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,100:0f172a" alt="footer" />
