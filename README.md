@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Arnav%20Jaiswal&fontSize=48&fontAlignY=38&desc=AI%20%7C%20ML%20Engineer%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&animation=fadeIn" alt="header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:0891b2,100:22c55e&text=Arnav%20Jaiswal&fontSize=48&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%20%7C%20ML%20Engineer%20%7C%20NLP%20%7C%20GenAI&descAlignY=58&animation=fadeIn" alt="header" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-	<img src="https://img.shields.io/badge/AI%2FML%20Engineer-Production%20NLP%20%26%20GenAI-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="role" />
+	<img src="https://img.shields.io/badge/Data%20Analyst%20%7C%20AI%2FML%20Engineer-Analytics%20%7C%20Production%20NLP%20%26%20GenAI-0ea5e9?style=for-the-badge&labelColor=0f172a" alt="role" />
 </p>
 
 <p align="center">
@@ -46,12 +46,16 @@
 	<img src="https://img.shields.io/badge/OPTIMIZATION-Feature%20Engineering%20%7C%20Tuning-f59e0b?style=for-the-badge" alt="optimization" />
 </p>
 
+<p align="center">
+	<img src="https://img.shields.io/badge/DATA%20ANALYTICS-Power%20BI%20%7C%20SQL%20%7C%20Excel-0ea5e9?style=for-the-badge" alt="data analytics" />
+</p>
+
 ---
 
 <h2 align="center">AI/ML Tech Arsenal</h2>
 
 <p align="center">
-	<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,vscode" alt="tech stack" />
+	<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,git,vscode,mysql" alt="tech stack" />
 </p>
 
 <h3 align="center">AI & Machine Learning</h3>
@@ -72,6 +76,15 @@
 	<img src="https://img.shields.io/badge/AutoGen-E11D48?style=for-the-badge" alt="AutoGen" />
 	<img src="https://img.shields.io/badge/Vector_DB-7C3AED?style=for-the-badge" alt="Vector DB" />
 	<img src="https://img.shields.io/badge/Fine--tuning-DC2626?style=for-the-badge" alt="Fine-tuning" />
+</p>
+
+<h3 align="center">Analytics Tools</h3>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+	<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+	<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
+	<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
 <h3 align="center">Deployment & Tooling</h3>
